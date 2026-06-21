@@ -4,7 +4,7 @@
 
 ## Ссылка на проект
 
-- [GitHub Pages](https://YOUR_USERNAME.github.io/mesto-ad-deploy/)
+- [GitHub Pages](https://aryzhkova2112-rgb.github.io/mesto-ad-deploy/)
 
 ## Команды
 

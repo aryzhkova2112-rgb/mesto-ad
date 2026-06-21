@@ -1,5 +1,5 @@
-const GROUP_ID = "";
-const TOKEN = "";
+const GROUP_ID = "apf-cohort-203";
+const TOKEN = "e165270f-0868-4abd-8fd4-11f1111942cc";
 
 const API_BASE = `https://mesto.nomoreparties.co/v1/${GROUP_ID}`;
 
